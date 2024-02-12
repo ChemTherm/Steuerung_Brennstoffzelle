@@ -1,0 +1,3 @@
+[submodule "TinkerForgeHelperLib"]
+	path = TinkerForgeHelperLib
+	url = https://github.com/MartinPek/TinkerForgeHelperLib
